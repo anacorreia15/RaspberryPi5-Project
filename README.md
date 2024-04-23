@@ -8,4 +8,8 @@ gpiozero
 picamera2 
 paramiko
 
-(run)>>>python test3.py
+Como funciona:
+>>>cd /home/alunas/Desktop/projeto/take_picture/
+>>>source venv/bin/activate
+>>>python test3.py
+>>>ctr+c (stop)
